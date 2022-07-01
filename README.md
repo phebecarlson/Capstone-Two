@@ -1,2 +1,2 @@
-# CapstoneTwo
+# Heart Disease Predictions
  
